@@ -1,0 +1,19 @@
+{
+  "dbcode.connections": [
+    {
+      "connectionId": "qdi6Z5m52tG2Nx8CNV3jy",
+      "name": "Banco",
+      "driver": "firebase",
+      "driverOptions": {
+        "authMethod": "sa",
+        "projectId": "ler-brincando",
+        "key": "c:\\Users\\Pichau\\Downloads\\ler-brincando-default-rtdb-export.json"
+      },
+      "connectionTimeout": 20,
+      "introspection": {
+        "progressive": false
+      },
+      "connectionType": "socket"
+    }
+  ]
+}
